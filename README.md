@@ -30,6 +30,7 @@ El sistema tiene la opcion de elegir algunos de estos idiomas habilitados: Ingle
 
 - ### Agregacion:
 Se agregan los clubes con los datos predeterminados del programa que son: Nombre del club, Presidente, Entrenador, Estadio, Liga y Titulos del respectivo club, cuando los datos ya esten ingresados, dar en el boton agregar y se guardara en un mostrador donde se podran ciertos datos si hubo alguna equivocación. Para saber informacion oficial y actual de cada club ingresar al siguiente link:
+
 <https://www.transfermarkt.es/>
 
 
