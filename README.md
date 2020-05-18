@@ -10,7 +10,7 @@ Kevin Sebastian Diaz Chinchilla  & Yeison Steven Espinosa Lopez.
 
 ## Instalación del proyecto
 
-- Para la instalación del proyecto primero debes dirigirte a mi perfil: tatan2407, luego dar click en "Clonar or Download" y seleccionar "Download ZIP".
+- Para la instalación del proyecto primero debes dirigirte a mi perfil: tatan2407/Poryecto-Programación-TT, luego dar click en "Clonar or Download" y seleccionar "Download ZIP".
 - Ya descargado el RAR vamos a descomprimirlo para convertirlo en carpeta y poder ver sus archivos.
 - Finalmente ejecutamos el programa .exe para iniciarlo.
 
@@ -18,6 +18,7 @@ Kevin Sebastian Diaz Chinchilla  & Yeison Steven Espinosa Lopez.
 
 - ### Idioma: 
 El sistema tiene la opcion de elegir algunos de estos idiomas habilitados: Ingles, Español y Mandarin para algun usuario de no habla hispana pueda ejecutar el programa sin ningun impedimiento.  
+
 - ### Agregacion:
 Se agregan los clubes con los datos predeterminados del programa que son: Nombre del club, Presidente, Entrenador, Estadio, Liga y Titulos del respectivo club, cuando los datos ya esten ingresados, dar en el boton agregar y se guardara en un mostrador donde se podran ciertos datos si hubo alguna equivocación.
 - ### Editar y Actualizar:
