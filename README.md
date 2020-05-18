@@ -31,8 +31,12 @@ El sistema tiene la opcion de elegir algunos de estos idiomas habilitados: Ingle
 - ### Agregacion:
 Se agregan los clubes con los datos predeterminados del programa que son: Nombre del club, Presidente, Entrenador, Estadio, Liga y Titulos del respectivo club, cuando los datos ya esten ingresados, dar en el boton agregar y se guardara en un mostrador donde se podran ciertos datos si hubo alguna equivocación.
 ![Agregar](https://user-images.githubusercontent.com/61460029/82267366-bce82880-9931-11ea-8a37-87b66994ca35.PNG)
+
+![Mostrar](https://user-images.githubusercontent.com/61460029/82267558-5d3e4d00-9932-11ea-989b-b7347752f679.PNG)
+
 - ### Editar y Actualizar:
 Los datos ya ingresados se pueden editar para asi mismo ingresar los valores correspondientes que el usuario se haya equivocado y poder actulizarlo sin perder el orden en donde se habian agregado antes de editarlo.
+
 - ### Grafica:
 La grafica mostrara el numero de titulos del club y comparara los datos que se hayan ingresado, este tendra en el eje "Y" un ponderado de numeros dependiendo de la cantidad maxima que se hayan ingresado en el registro de los datos y en el eje "X" apareceran el nombre de cada club ingresado anteriormente en el registro de los datos.
 - ### Raiz:
