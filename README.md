@@ -19,6 +19,8 @@ Kevin Sebastian Diaz Chinchilla  & Yeison Steven Espinosa Lopez.
 - ### Idioma: 
 El sistema tiene la opcion de elegir algunos de estos idiomas habilitados: Ingles, Español y Mandarin para algun usuario de no habla hispana pueda ejecutar el programa sin ningun impedimiento.  
 
+![Idioma](https://user-images.githubusercontent.com/61460029/82264270-39770900-992a-11ea-9bc4-64572061f73d.PNG)
+
 - ### Agregacion:
 Se agregan los clubes con los datos predeterminados del programa que son: Nombre del club, Presidente, Entrenador, Estadio, Liga y Titulos del respectivo club, cuando los datos ya esten ingresados, dar en el boton agregar y se guardara en un mostrador donde se podran ciertos datos si hubo alguna equivocación.
 - ### Editar y Actualizar:
