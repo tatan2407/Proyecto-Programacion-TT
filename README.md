@@ -29,7 +29,10 @@ El sistema tiene la opcion de elegir algunos de estos idiomas habilitados: Ingle
 ![Idioma](https://user-images.githubusercontent.com/61460029/82264270-39770900-992a-11ea-9bc4-64572061f73d.PNG)
 
 - ### Agregacion:
-Se agregan los clubes con los datos predeterminados del programa que son: Nombre del club, Presidente, Entrenador, Estadio, Liga y Titulos del respectivo club, cuando los datos ya esten ingresados, dar en el boton agregar y se guardara en un mostrador donde se podran ciertos datos si hubo alguna equivocación.
+Se agregan los clubes con los datos predeterminados del programa que son: Nombre del club, Presidente, Entrenador, Estadio, Liga y Titulos del respectivo club, cuando los datos ya esten ingresados, dar en el boton agregar y se guardara en un mostrador donde se podran ciertos datos si hubo alguna equivocación. Para saber informacion oficial y actual de cada club ingresar al siguiente link:
+<https://www.transfermarkt.es/>
+
+
 ![Agregar](https://user-images.githubusercontent.com/61460029/82267366-bce82880-9931-11ea-8a37-87b66994ca35.PNG)
 
 ![Mostrar](https://user-images.githubusercontent.com/61460029/82267558-5d3e4d00-9932-11ea-989b-b7347752f679.PNG)
