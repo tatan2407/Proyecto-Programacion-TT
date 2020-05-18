@@ -42,6 +42,9 @@ Los datos ya ingresados se pueden editar para asi mismo ingresar los valores cor
 - ### Grafica:
 La grafica mostrara el numero de titulos del club y comparara los datos que se hayan ingresado, este tendra en el eje "Y" un ponderado de numeros dependiendo de la cantidad maxima que se hayan ingresado en el registro de los datos y en el eje "X" apareceran el nombre de cada club ingresado anteriormente en el registro de los datos.
 
+![grafica](https://user-images.githubusercontent.com/61460029/82267806-04bb7f80-9933-11ea-8921-e6cad5071feb.PNG)
+
+
 - ### Raiz:
 La raiz es una operacion matemtica unica en donde cada uno es la suma de cada digito ingresado sumando todo el numero completo.
 Ejemplo:
