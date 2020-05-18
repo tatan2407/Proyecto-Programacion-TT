@@ -19,6 +19,7 @@ Kevin Sebastian Diaz Chinchilla  & Yeison Steven Espinosa Lopez.
 ![Descomprimido](https://user-images.githubusercontent.com/61460029/82265207-0f264b00-992c-11ea-9eec-de7e9a0094ed.PNG)
 
 - Finalmente ejecutamos el programa .exe para iniciarlo.
+![Exe](https://user-images.githubusercontent.com/61460029/82267111-1865e680-9931-11ea-9045-a288ffb71fe3.PNG)
 
 ## Ejecucion del TT
 
