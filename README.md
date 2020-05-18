@@ -16,6 +16,8 @@ Kevin Sebastian Diaz Chinchilla  & Yeison Steven Espinosa Lopez.
 ![Descargar zip](https://user-images.githubusercontent.com/61460029/82264966-890a0480-992b-11ea-8a04-99419accc165.PNG)
 
 - Ya descargado el RAR vamos a descomprimirlo para convertirlo en carpeta y poder ver sus archivos.
+![Descomprimido](https://user-images.githubusercontent.com/61460029/82265207-0f264b00-992c-11ea-9eec-de7e9a0094ed.PNG)
+
 - Finalmente ejecutamos el programa .exe para iniciarlo.
 
 ## Ejecucion del TT
