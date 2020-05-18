@@ -37,6 +37,8 @@ Se agregan los clubes con los datos predeterminados del programa que son: Nombre
 - ### Editar y Actualizar:
 Los datos ya ingresados se pueden editar para asi mismo ingresar los valores correspondientes que el usuario se haya equivocado y poder actulizarlo sin perder el orden en donde se habian agregado antes de editarlo.
 
+![editar](https://user-images.githubusercontent.com/61460029/82267706-bb6b3000-9932-11ea-9601-9187569e68e7.PNG)
+
 - ### Grafica:
 La grafica mostrara el numero de titulos del club y comparara los datos que se hayan ingresado, este tendra en el eje "Y" un ponderado de numeros dependiendo de la cantidad maxima que se hayan ingresado en el registro de los datos y en el eje "X" apareceran el nombre de cada club ingresado anteriormente en el registro de los datos.
 - ### Raiz:
