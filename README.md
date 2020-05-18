@@ -11,6 +11,8 @@ Kevin Sebastian Diaz Chinchilla  & Yeison Steven Espinosa Lopez.
 ## Instalación del proyecto
 
 - Para la instalación del proyecto primero debes dirigirte a mi perfil: tatan2407/Poryecto-Programación-TT, luego dar click en "Clonar or Download" y seleccionar "Download ZIP".
+![Descargar](https://user-images.githubusercontent.com/61460029/82264969-89a29b00-992b-11ea-8c03-bd79f95ce91f.PNG)
+
 - Ya descargado el RAR vamos a descomprimirlo para convertirlo en carpeta y poder ver sus archivos.
 - Finalmente ejecutamos el programa .exe para iniciarlo.
 
